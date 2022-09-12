@@ -1,0 +1,41 @@
+* {
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.topbox{
+
+    height:500px;
+    width: 1920px;
+    background-color:rgba(255, 255, 205, 1); 
+    margin-bottom: auto;
+   
+}
+
+.logo{
+    
+    background-image: url(./Plaatjes/food-and-grocery-delivery-logo-icon-design-te-template-1e169c70e967dd973501811514079490_screen.jpg);
+    width: 655px;
+    height: 500px;
+    overflow: hidden;
+    background-blend-mode:overlay;
+    background-repeat: no-repeat;
+    background-color:rgba(190, 168, 94, 0.747);
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
